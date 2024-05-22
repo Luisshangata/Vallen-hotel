@@ -1,0 +1,48 @@
+.text-brand {
+    color: white !important;
+    font-family: Poetsen One;
+    font-size: 24px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.border{
+    border-radius: 100%;
+    width: 10px !important;
+    height: 10px !important;
+}
+.contat {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;   
+}
+.text-title{
+    text-align: center;
+}
+.text-conteudo{
+text-align: center;
+}
+.service-item{
+    padding: 30px 70px 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.galeri{
+    text-align: center;
+    color: white;
+}
+.pequeno-titulo{
+    font-family:'Times New Roman', Times, serif;
+}
+.titulo-maior{
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+}
+.fotos{
+    align-items: stretch;
+    justify-items: stretch;
+}
+.link-topo{
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+}
